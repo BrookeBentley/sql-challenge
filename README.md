@@ -1,0 +1,1 @@
+A Research project answering questions about a fictional company that employed during the 1980s and 1990s, and all that was left are 6 CSV files. See data analysis for questions asked and how they were answered.  
